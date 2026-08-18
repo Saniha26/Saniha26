@@ -25,9 +25,6 @@ An automation workflow designed to collect job opportunities, analyze job descri
 
 **Technologies:** Python · AI · APIs · n8n · Automation
 
-🔗 [View Project](#)
-
----
 
 ###  Temperature Controller
 
@@ -35,9 +32,6 @@ A project focused on monitoring and controlling temperature automatically using 
 
 **Technologies:** Programming · Sensors · Automation
 
-🔗 [View Project](#)
-
----
 
 ### ⚙️ Automation Projects
 
