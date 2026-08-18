@@ -1,6 +1,6 @@
 #  Hi, I'm Saniha Sunny
 
-### 💻 Software Developer | AI & Automation Enthusiast | Cybersecurity Explorer
+### Software Developer | AI & Automation Enthusiast | Cybersecurity Explorer
 
 I'm a BCA graduate passionate about building practical software solutions and exploring emerging technologies.
 
