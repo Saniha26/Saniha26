@@ -1,39 +1,47 @@
-AI Job Match System Export
-Contents
-frontend/ : static frontend dashboard
-backend-workflow.json : importable n8n workflow
-Frontend
-Serve the frontend folder with any static server.
+# 👋 Hi, I'm Saniha Sunny
 
-Example:
+### 💻 Software Developer | AI & Automation Enthusiast | Cybersecurity Explorer
 
-cd frontend
-python -m http.server 4173
-Open: http://localhost:4173
+I'm a BCA graduate passionate about building practical software solutions and exploring emerging technologies.
 
-Backend
-Import backend-workflow.json into n8n.
+I enjoy working with **Python, AI, automation, APIs, databases, and software development**, while continuously expanding my knowledge in **Generative AI, Agentic AI, and Cybersecurity**.
 
-After import, reconnect these credentials on the target system:
+---
 
-Groq
-Google Drive
-Google Sheets
-Gmail
-Important note
-The workflow currently includes a fixed Google Drive download node for the resume source. The frontend collects resume_path and profile_text, but the backend may ignore them until that n8n flow is changed.
+## 🚀 About Me
 
-<!--
-**Saniha26/Saniha26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BCA Graduate
+- 💻 Interested in Software Development & AI
+- 🤖 Exploring Generative AI and Agentic AI
+- 🔐 Learning Cybersecurity & Ethical Hacking
+- ⚙️ Interested in Workflow Automation and APIs
+- 🧠 Improving my problem-solving and programming skills
+- 📚 Always learning and building new projects
+- ## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### 🤖 AI Job Match Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An automation workflow designed to collect job opportunities, analyze job descriptions, and identify roles that match a candidate's skills and requirements.
+
+**Technologies:** Python · AI · APIs · n8n · Automation
+
+🔗 [View Project](#)
+
+---
+
+### 🌡️ Temperature Controller
+
+A project focused on monitoring and controlling temperature automatically using programmed logic and hardware components.
+
+**Technologies:** Programming · Sensors · Automation
+
+🔗 [View Project](#)
+
+---
+
+### ⚙️ Automation Projects
+
+
+I am currently building automation workflows using APIs, AI tools, and workflow automation platforms to solve repetitive tasks and improve productivity.
+
+**Technologies:** n8n · APIs · AI · Automation
