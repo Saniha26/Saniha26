@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saniha Sunny
+#  Hi, I'm Saniha Sunny
 
 ### 💻 Software Developer | AI & Automation Enthusiast | Cybersecurity Explorer
 
@@ -8,18 +8,18 @@ I enjoy working with **Python, AI, automation, APIs, databases, and software dev
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 BCA Graduate
-- 💻 Interested in Software Development & AI
-- 🤖 Exploring Generative AI and Agentic AI
-- 🔐 Learning Cybersecurity & Ethical Hacking
-- ⚙️ Interested in Workflow Automation and APIs
-- 🧠 Improving my problem-solving and programming skills
-- 📚 Always learning and building new projects
-- ## 🚀 Featured Projects
+-  BCA Graduate
+-  Interested in Software Development & AI
+-  Exploring Generative AI and Agentic AI
+-  Learning Cybersecurity & Ethical Hacking
+-  Interested in Workflow Automation and APIs
+-  Improving my problem-solving and programming skills
+-  Always learning and building new projects
+- ##  Featured Projects
 
-### 🤖 AI Job Match Automation
+### AI Job Match Automation
 
 An automation workflow designed to collect job opportunities, analyze job descriptions, and identify roles that match a candidate's skills and requirements.
 
@@ -29,7 +29,7 @@ An automation workflow designed to collect job opportunities, analyze job descri
 
 ---
 
-### 🌡️ Temperature Controller
+###  Temperature Controller
 
 A project focused on monitoring and controlling temperature automatically using programmed logic and hardware components.
 
